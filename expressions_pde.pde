@@ -1,0 +1,13 @@
+println (5+7+3-10/3 * 20 % 1);
+println ( 3 + 17);
+println ( 8- 4);
+println ( 7*24);
+println ( 18/9);
+println ( 50 % 5);
+println( true && true);
+println( 13 > 2);
+println (false || false );
+println ( 12 < 50);
+println(6!= 4);
+println (12 <= 24);
+println (( 3 < 5) && (9 > 10));
