@@ -1,7 +1,7 @@
 String player1;
 String player2;
-Boolean = hasChosen;
-String [][] gameBoard=
+boolean hasChosen;
+/*String [][] gameBoard=
 {{ " ", " ", " ",},
 {" ", " ", " "},
 { " ", " ", " "}};
@@ -61,4 +61,4 @@ void makeMove(){
   if (mouseX <125 && mouseY < 125 && mouseX >= 0 && mouseY >= 0 && gameBoard [0][0]== " "){
     gameBoard[0][0]="X";
   }
-}
+}*/
